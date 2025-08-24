@@ -111,7 +111,7 @@
 <h3 align="center">
     📊 GitHub Contributions Graph 📊
 </h3>
-![contributions](https://github-readme-activity-graph.vercel.app/graph?username=FinishedNote&custom_title=Contributions%20this%20year&theme=high-contrast&hide_border=true)
+[![FinishedNote's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FinishedNote&theme=high-contrast)]
 
 <br/>
 
