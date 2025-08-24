@@ -109,6 +109,13 @@
 <br/>
 
 <h3 align="center">
+    📊 GitHub Contributions Graph 📊
+</h3>
+![contributions](https://github-readme-activity-graph.vercel.app/graph?username=FinishedNote&custom_title=Contributions%20this%20year&theme=high-contrast&hide_border=true)
+
+<br/>
+
+<h3 align="center">
     🐍 GitHub Snake Contributions Graph 🐍
 </h3>
 
