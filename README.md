@@ -10,11 +10,8 @@
 <br />
 
 <div align="center">
-
-    👩🏻‍💻 I'm currently working on **a bank app**
-
-    🧠 I'm currently learning **React native, Nativewind**
-
+    <p>👩🏻‍💻 I'm currently working on <b>a bank app<b/></p>
+    <p>🧠 I'm currently learning <b>React native, Nativewind<b/></p>
 </div>
 
 <div align="center">
