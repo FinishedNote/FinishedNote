@@ -115,6 +115,10 @@
 
 <br/>
 
+---
+
+<br/>
+
 <h3 align="center">
     🐍 GitHub Snake Contributions Graph 🐍
 </h3>
