@@ -111,7 +111,10 @@
 <h3 align="center">
     📊 GitHub Contributions Graph 📊
 </h3>
-[![FinishedNote's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FinishedNote&theme=high-contrast)]
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FinishedNote&theme=high-contrast" />
 
 <br/>
 
