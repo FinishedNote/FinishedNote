@@ -123,7 +123,7 @@
 <div align="center">
   
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FinishedNote&repo=fluxo-app&theme=dark&border=false)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FinishedNote&repo=fluxo-app&theme=dark&border=false)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FinishedNote&repo=cross-snap&theme=dark&border=false)
 
 </div>
 
