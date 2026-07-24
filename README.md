@@ -10,12 +10,6 @@
 <br />
 
 <div align="center">
-    <a href="mailto:miroir.raphael07@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-272727?style=for-the-badge&logo=gmail&logoColor=blue"/>
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-272727?style=for-the-badge&logo=discord&logoColor=blue"/>
-    </a>
     <a href="https://portfolio-raphael-miroir.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Porfolio-272727?style=for-the-badge&logo=todoist&logoColor=blue"/>
     </a>
